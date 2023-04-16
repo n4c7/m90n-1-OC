@@ -29,4 +29,4 @@ While wifi, bluetooth and etc are working AirDrop does not work. If you need air
 
 ![Picture 1](pinmasking1.jpeg)
 
-![Picture 2](pinmasking2.png)
+![Picture 2](https://raw.githubusercontent.com/alexleisyd/lenovo-m90n-hackintosh/master/DW1820A_pins_masking2.png)
