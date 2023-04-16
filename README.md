@@ -6,7 +6,7 @@ This efi is for open core only do not try using any other bootloader.
 
 In the future I plan to continuously upgrade this project, feel free to fork it and add your own spice to the mix!
 
-#Specs
+### Specs
 
 | Component           | Details                                                   |
 | ------------------- | --------------------------------------------------------- |
@@ -19,6 +19,6 @@ In the future I plan to continuously upgrade this project, feel free to fork it 
 | Sound Chips         | Realtek ALC233                                            |
 | Wireless/BT         | Intel 9560NGW                                             |
 
-#Credits
+### Credits
 
 @alexleisyd for the original project which I forked
