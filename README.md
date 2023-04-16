@@ -22,3 +22,11 @@ In the future I plan to continuously upgrade this project, feel free to fork it 
 ### Credits
 
 @alexleisyd for the original project which I forked
+
+### Disclaimer!
+
+While wifi, bluetooth and etc are working AirDrop does not work. If you need airdrop then I recommend changing the wifi card, from there do your own research as I do not own another wifi card, if you are going to use the DW1820A then you need to use pin masking, follow the images under this to see which pins you need to mask. (These images come from Alexleisyd's github page)
+
+![Picture 1](DW1820A_Cover_pins.jpg)
+
+![Picture 2](DW1820A_pins_masking2.png)
