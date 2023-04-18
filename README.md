@@ -1,6 +1,6 @@
 # m90n-1-Ventura-OC
 A hackintosh efi for lenovo m90n-1 for ventura with fully working wifi, bluetooth, etc
-Theres no need to edit anything, this is built for ventura 13.1 and its a fork of https://github.com/alexleisyd/lenovo-m90n-hackintosh, I just update it to ventura and fixed wifi without needing to change wifi card.
+Theres no need to edit anything, this is built for ventura 13.1 and its a fork of https://github.com/alexleisyd/lenovo-m90n-hackintosh, I just updated it to ventura and fixed wifi without needing to change wifi card.
 
 This efi is for open core only do not try using any other bootloader.
 
